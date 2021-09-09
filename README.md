@@ -35,8 +35,8 @@ app.run(port=5000, debug=True)
 
 Run the code below to use the API:
 
-'''bash
+```bash
 python api.py
-'''
+```
 
 You can test the API with POSTMAN.
